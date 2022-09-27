@@ -14,6 +14,7 @@
        <td> 제 목 </td>
        <td> 조회수 </td>
        <td> 작성일 </td>
+       <td>aaaaaaaaa</td>
      </tr>
     <c:forEach items="${list}" var="bdto">
       <tr>
